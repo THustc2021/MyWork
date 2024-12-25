@@ -1,0 +1,9 @@
+exp1    纯卷积，不使用注意力
+exp2    使用最深层注意力，然后直接上采样，使用xavier初始化，性能提升（训练集收敛到更低位置，验证集效果轻微提升）
+exp3    消除xavier初始化后，性能提升（训练集收敛位置似乎没变，但是验证集效果提升），attention保持type=0
+exp4    将attention type改为1，性能下降（比exp2还低）
+exp5    加入坐标信号（加在靠近输出的位置）和坐标嵌入，效果差
+exp6    进一步改进，加入空间注意力，效果不佳
+exp7    在上述设置下，把attention全部换成type=0，相较于exp4、exp6有所提升，但不如exp3
+exp8    geo_decoder扩展通道，效果不佳
+exp9    引入GeoLoss，v2版本（不如exp3）
