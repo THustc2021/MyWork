@@ -1,0 +1,1311 @@
+Results folders created successfully!
+>>> Start AEL 
+begin evaluate
+['results', 'joao.sh', 'runAEL_laug.py', '__pycache__', 'th_llm', 'joao.py', 'nohup.out', 'joaov2_aug.py', 'joaov2.sh', 'ael_prompts.py', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'test.py', 'joaov2_laug.py', 'th_notes', 'IMDB-BINARY.zip', 'joaov2_no_aug.py', 'joaov2.py', 'runAEL.py', 'ael_evaluation.py', 'add.py', 'data', 'arguments.py', 'model.py', 'gin.py', 'README.md', 'ael_results']
+IMDB-BINARY
+1000
+1
+Epoch 1, Loss 451.4901762008667
+cccccc
+ddddddd
+eeeeeee
+0.7139999999999999 0.712
+{'val': [0.7139999999999999], 'test': [0.712]}
+0
+1
+2
+3
+4
+[4.87066936 4.80779481 4.87407279 4.80847192 4.85841894] [0.2269442  0.16369311 0.23036801 0.16437427 0.21462041]
+evaluate a time: 0.21666666666666667 m
+0.28800000000000003
+IMDB-BINARY
+1000
+1
+Epoch 1, Loss 452.1646375656128
+cccccc
+ddddddd
+eeeeeee
+0.708 0.7150000000000001
+{'val': [0.708], 'test': [0.7150000000000001]}
+0
+1
+2
+3
+4
+[5.09551191 5.08210468 5.1148634  5.07197189 5.09537864] [0.20357173 0.19006648 0.22306469 0.17985962 0.20343748]
+evaluate a time: 0.21666666666666667 m
+0.2849999999999999
+IMDB-BINARY
+1000
+1
+Epoch 1, Loss 449.54590034484863
+cccccc
+ddddddd
+eeeeeee
+0.7219999999999999 0.711
+{'val': [0.7219999999999999], 'test': [0.711]}
+0
+1
+2
+3
+4
+[4.67178965 4.6183157  4.65199661 4.64318419 4.65758896] [0.22319373 0.16976792 0.20341851 0.19461402 0.20900582]
+evaluate a time: 0.2 m
+0.28900000000000003
+Initiliazation finished! Get 3 seed algorithms
+test population generation seed time: 0.65 m
+write back seeds done.
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: The shape of the mask [14] at index 0 does not match the shape of the indexed tensor [2, 111] at index 1
+warning! error code, retrying ... 
+starting new request...
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+IMDB-BINARY
+1000
+1
+Error: The shape of the mask [14] at index 0 does not match the shape of the indexed tensor [2, 111] at index 1
+warning! error code, retrying ... 
+starting new request...
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+Error: algorithm or code not identified, wait 1 seconds and retrying ... 
+starting new request...
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+IMDB-BINARY
+1000
+1
+Error: The shape of the mask [14] at index 0 does not match the shape of the indexed tensor [2, 111] at index 1
+warning! error code, retrying ... 
+starting new request...
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+Error in API. 
+starting new request...
+killed current thread
+Error: algorithm or code not identified, wait 1 seconds and retrying ... 
+starting new request...
+starting new request...
+killed current thread
+IMDB-BINARY
+1000
+1
+Error in API. 
+Error: index 2009 is out of bounds for dimension 0 with size 2009
+warning! error code, retrying ... 
+starting new request...
+Error: algorithm or code not identified, wait 1 seconds and retrying ... 
+starting new request...
+Error: algorithm or code not identified, wait 1 seconds and retrying ... 
+starting new request...
+Error in API. 
+Error: algorithm or code not identified, wait 1 seconds and retrying ... 
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: could not broadcast input array from shape (88,) into shape (111,)
+warning! error code, retrying ... 
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: tensor([ 0,  0,  0,  0,  0,  0,  0,  1,  1,  1,  1,  1,  1,  1,  2,  2,  2,  2,
+         2,  2,  2,  3,  3,  3,  3,  3,  3,  4,  4,  4,  4,  4,  4,  4,  5,  5,
+         5,  5,  5,  5,  6,  6,  6,  6,  6,  6,  7,  7,  7,  7,  7,  7,  8,  8,
+         8,  8,  8,  8,  8,  9,  9,  9,  9,  9,  9,  9, 10, 10, 10, 10, 10, 10,
+        11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13,
+        13, 13, 13, 13, 13, 13, 13, 13,  0,  1,  2,  3,  4,  5,  6,  7,  8,  9,
+        10, 11, 12])
+warning! error code, retrying ... 
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: 'list' object has no attribute 'numpy'
+warning! error code, retrying ... 
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: 'list' object has no attribute 'numpy'
+warning! error code, retrying ... 
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: index 2009 is out of bounds for dimension 0 with size 2009
+warning! error code, retrying ... 
+starting new request...
+IMDB-BINARY
+1000
+1
+Error: The shape of the mask [12] at index 0 does not match the shape of the indexed tensor [2, 111] at index 1
+warning! error code, retrying ... 
+starting new request...
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+starting new request...
+killed current thread
+Error in API. 
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+starting new request...
+Invalid thread id
+killed current thread
+Error in API. 
+1000
+1
+================
+lr: 0.01
+num_features: 1
+hidden_dim: 32
+num_gc_layers: 3
+================
+tensor(5.1352, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0668, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8834, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8216, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6425, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5153, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4127, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.1204, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 1, Loss 480.20476722717285
+[3.25778592 3.25778592 3.25778592 3.25778592 3.25778592] [0.2 0.2 0.2 0.2 0.2]
+tensor(5.1370, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8846, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6709, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5331, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3838, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3056, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2355, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9669, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 2, Loss 456.9762637615204
+[3.14819598 3.14819598 3.14819598 3.14819598 3.14819598] [0.2 0.2 0.2 0.2 0.2]
+tensor(3.1593, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.1263, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2016, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2433, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0508, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0751, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9686, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6813, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 3, Loss 384.05676460266113
+[2.89796829 2.89796817 2.89796829 2.89796817 2.89796829] [0.20000005 0.19999993 0.20000005 0.19999993 0.20000005]
+tensor(3.3671, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3092, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2395, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.1030, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0217, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9370, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9271, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6163, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 4, Loss 384.4857883453369
+[2.83394873 2.83394873 2.83394873 2.83394873 2.83394873] [0.20000004 0.19999994 0.20000004 0.19999994 0.20000004]
+tensor(2.7766, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7081, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9097, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7752, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.8076, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6443, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6931, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4422, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 5, Loss 340.7811963558197
+[2.63977718 2.63977718 2.63977706 2.63977706 2.63977718] [0.20000009 0.19999999 0.19999997 0.19999987 0.20000009]
+tensor(2.7751, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7513, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.8623, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7611, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6781, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5502, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5078, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2441, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 6, Loss 331.34917759895325
+[2.56012332 2.56012344 2.56012332 2.56012332 2.56012332] [0.20000005 0.20000009 0.19999995 0.19999986 0.20000005]
+tensor(2.4851, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5018, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5625, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5439, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4430, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3834, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3776, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.0913, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 7, Loss 303.94328594207764
+[2.45962095 2.45962095 2.45962095 2.45962095 2.45962083] [0.20000007 0.2000001  0.19999998 0.1999999  0.19999995]
+tensor(4.6822, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5659, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2193, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9385, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7346, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5778, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2752, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 8, Loss 385.9546639919281
+[2.48373175 2.48373199 2.48373175 2.48373175 2.48373199] [0.19999997 0.20000023 0.19999988 0.19999981 0.2000001 ]
+tensor(2.4857, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4748, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6009, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5393, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4207, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3431, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3104, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.0864, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 9, Loss 301.92070031166077
+[2.42491138 2.42491138 2.4249115  2.4249115  2.4249115 ] [0.1999999  0.20000014 0.19999994 0.19999988 0.20000014]
+tensor(4.5725, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4772, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.1034, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9024, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6829, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5462, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5015, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2275, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 10, Loss 377.5336170196533
+[2.43550432 2.43550444 2.4355042  2.43550432 2.4355042 ] [0.19999993 0.20000027 0.19999985 0.19999991 0.20000003]
+tensor(2.6744, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6468, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7389, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5821, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5239, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3707, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3505, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.1556, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 11, Loss 314.2187309265137
+[2.44396555 2.44396555 2.44396567 2.44396555 2.44396555] [0.19999992 0.20000022 0.19999996 0.1999999  0.2       ]
+tensor(2.4957, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4782, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4817, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4594, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3915, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3071, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2882, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.0096, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 12, Loss 296.55444955825806
+[2.40785694 2.40785718 2.40785706 2.40785706 2.40785694] [0.19999983 0.20000034 0.19999999 0.19999993 0.19999991]
+tensor(2.3711, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2980, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4573, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3866, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3650, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2604, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2443, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.0603, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 13, Loss 288.90592980384827
+[2.42342496 2.42342496 2.42342496 2.42342496 2.42342496] [0.19999985 0.20000031 0.19999999 0.19999994 0.19999992]
+tensor(2.4381, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3470, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.5230, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4686, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.3796, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2956, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2773, device='cuda:0', grad_fn=<NegBackward0>)
+1000
+1
+================
+lr: 0.01
+num_features: 1
+hidden_dim: 32
+num_gc_layers: 3
+================
+tensor(5.0612, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5859, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3255, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5240, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3368, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3076, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2140, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2406, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 1, Loss 556.8072576522827
+[4.84418702 3.62561524 4.49185705 3.76708055 3.56739414] [0.67524239 0.         0.32475761 0.         0.        ]
+tensor(5.0629, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.7610, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.7255, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8267, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.7401, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.7517, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.7109, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5198, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 2, Loss 596.0177850723267
+[4.84418726 3.76914859 4.40300584 3.90640509 3.72032571] [0.87975995 0.         0.12024005 0.         0.        ]
+tensor(5.6742, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(5.4417, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(5.0827, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8869, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.9865, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8273, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.9025, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6096, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 3, Loss 632.7531461715698
+[4.84418702 4.49950719 4.65364575 4.53073764 4.47431183] [0.93875887 0.         0.06124113 0.         0.        ]
+tensor(4.8404, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8652, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8041, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8459, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8938, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8610, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8164, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6541, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 4, Loss 603.3324842453003
+[4.84418726 4.62487268 4.68544698 4.62753367 4.610672  ] [0.97345241 0.         0.02654759 0.         0.        ]
+tensor(4.8981, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8593, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8573, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8522, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8430, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8457, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8447, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6341, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 5, Loss 604.2469100952148
+[4.84418726 4.71038461 4.74501729 4.71650887 4.70459533] [0.97384183 0.         0.02615817 0.         0.        ]
+tensor(4.8537, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8366, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8419, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8482, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8509, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8479, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8464, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6254, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 6, Loss 602.938470363617
+[4.84418702 4.74558878 4.77415466 4.75175142 4.74120641] [0.9580728 0.        0.0419272 0.        0.       ]
+tensor(4.8506, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8524, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8490, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8429, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8487, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8401, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8436, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6361, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 7, Loss 603.1054925918579
+[4.84418678 4.75536513 4.77728605 4.75703812 4.75061154] [0.94479542 0.         0.05520458 0.         0.        ]
+tensor(4.8444, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8495, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8493, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8453, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8515, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8486, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8399, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6311, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 8, Loss 603.061357498169
+[4.84418678 4.76306677 4.78722358 4.76554823 4.75845718] [0.92452981 0.         0.073156   0.00231419 0.        ]
+tensor(4.8489, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8455, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8460, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8504, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8467, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8434, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8387, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6382, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 9, Loss 603.0097012519836
+[4.84418726 4.77583504 4.79397559 4.77713895 4.77097607] [0.90285286 0.00328778 0.08718815 0.00667121 0.        ]
+tensor(4.8469, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8437, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8481, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8395, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8435, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8423, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8464, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6338, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 10, Loss 602.8067736625671
+[4.84418702 4.78523493 4.80365849 4.78888512 4.78118181] [0.87250803 0.00859393 0.10202531 0.01525339 0.00161933]
+tensor(4.8406, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8478, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8334, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8475, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8352, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8416, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8400, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6371, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 11, Loss 602.4582047462463
+[4.84418726 4.78219604 4.79790998 4.78476143 4.77940178] [0.84767374 0.01341452 0.11259201 0.02191984 0.00439989]
+tensor(4.8413, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8348, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8309, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8434, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8498, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8443, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8406, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6374, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 12, Loss 602.4500284194946
+[4.84418726 4.77086568 4.79054093 4.77039289 4.76739287] [0.83383384 0.01559642 0.12374925 0.02272686 0.00409363]
+tensor(5.1408, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(5.3029, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(5.0305, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(5.1506, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.9807, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8779, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.9213, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6879, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 13, Loss 627.4161658287048
+[4.84418702 4.74911094 4.77682877 4.7537806  4.74381542] [0.83399894 0.01038258 0.13425381 0.02136466 0.        ]
+tensor(4.8364, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8398, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8473, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8437, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8257, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8666, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8195, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6519, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 14, Loss 602.5393238067627
+[4.84418678 4.74067116 4.76836157 4.74300432 4.73405099] [8.46156106e-01 7.81341794e-04 1.40055434e-01 1.30071182e-02
+ 0.00000000e+00]
+tensor(4.8524, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8369, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8396, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8458, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8347, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8196, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8329, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5981, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 15, Loss 601.5648531913757
+[4.84418702 4.73653817 4.76242399 4.73885202 4.73299551] [0.86157569 0.         0.13842431 0.         0.        ]
+tensor(4.8212, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8281, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8176, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8271, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8166, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8236, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8456, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6166, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 16, Loss 600.4936990737915
+[4.84418726 4.69384694 4.74024034 4.69514084 4.68975663] [0.87875385 0.         0.12124615 0.         0.        ]
+tensor(4.8806, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8588, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8396, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8251, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8462, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8418, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8252, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6101, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 17, Loss 602.6080694198608
+[4.84418678 4.7082243  4.7384243  4.71199298 4.70394659] [0.89018616 0.         0.10981384 0.         0.        ]
+tensor(4.8262, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8563, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8427, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8365, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8703, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8286, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8350, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6196, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 18, Loss 602.3869905471802
+[4.84418678 4.72188616 4.75193572 4.72634077 4.71619415] [0.89762942 0.         0.10237058 0.         0.        ]
+tensor(4.8441, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8600, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8206, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8454, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8627, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8307, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8291, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6461, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 19, Loss 602.6811857223511
+[4.84418678 4.74411368 4.77409291 4.74228835 4.73781228] [0.89298429 0.         0.10701571 0.         0.        ]
+tensor(4.8244, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8481, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8372, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8272, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8338, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8369, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8343, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6402, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 20, Loss 601.7959609031677
+[4.84418678 4.74610472 4.77749395 4.74807501 4.7380743 ] [0.8906919 0.        0.1093081 0.        0.       ]
+tensor(4.8439, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8189, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8523, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8316, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8347, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8337, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6138, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 21, Loss 601.5724158287048
+[4.84418678 4.72578335 4.75692081 4.72572565 4.71695209] [0.894162 0.       0.105838 0.       0.      ]
+tensor(4.8580, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8532, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8249, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8336, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8523, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8567, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8523, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6237, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 22, Loss 603.0055818557739
+[4.84418678 4.71623635 4.74599814 4.719697   4.70633459] [0.90134506 0.         0.09865494 0.         0.        ]
+tensor(4.8505, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8531, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8258, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8216, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8281, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8263, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8323, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6475, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 23, Loss 601.8209199905396
+[4.84418678 4.71201754 4.7510972  4.71170068 4.70067692] [0.90708267 0.         0.09291733 0.         0.        ]
+tensor(4.8510, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8339, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8478, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8473, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8444, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8270, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8363, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6177, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 24, Loss 602.2343726158142
+[4.84418702 4.72323608 4.7655158  4.72337651 4.70687532] [0.90401002 0.         0.09598998 0.         0.        ]
+tensor(4.8395, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8390, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8342, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8381, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8365, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8407, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8353, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6330, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 25, Loss 602.0434494018555
+[4.84418678 4.68191004 4.73386359 4.6973958  4.65436363] [0.91673175 0.         0.08326825 0.         0.        ]
+tensor(4.8532, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8312, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8285, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8361, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8369, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8318, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8122, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6352, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 26, Loss 601.5367074012756
+[4.84418702 4.63730788 4.69251943 4.6387043  4.5994153 ] [0.94969434 0.         0.05030566 0.         0.        ]
+tensor(4.8498, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8546, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8622, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8450, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8469, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8461, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6204, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 27, Loss 603.0884909629822
+[4.84418678 4.64503789 4.70302033 4.66737461 4.60947919] [0.97606003 0.         0.02393997 0.         0.        ]
+tensor(4.8449, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8430, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8323, device='cuda:0', grad_fn=<NegBackward0>)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+tensor(4.8485, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8453, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8422, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8387, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6330, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 28, Loss 602.5494499206543
+[4.84418726 4.66204    4.7394886  4.67319918 4.62207341] [0.97923949 0.         0.02076051 0.         0.        ]
+tensor(4.8464, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8475, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8422, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8387, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8437, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8474, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6250, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 29, Loss 602.6863059997559
+[4.84418702 4.65981507 4.72943115 4.67993712 4.62549973] [0.98681091 0.         0.01318909 0.         0.        ]
+tensor(4.8444, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8451, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8441, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8462, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8449, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8464, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8397, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 30, Loss 602.8237261772156
+[4.84418702 4.63964701 4.72008276 4.64965725 4.61166573] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 31, Loss 602.8004031181335
+[4.84418678 4.64341593 4.73625517 4.65736938 4.60490894] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 32, Loss 602.8004107475281
+[4.84418678 4.63402486 4.71184826 4.65519524 4.60266113] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 33, Loss 602.8004031181335
+[4.84418702 4.63536882 4.71826267 4.64433241 4.60170603] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 34, Loss 602.8004107475281
+[4.84418702 4.63793206 4.70915031 4.67172575 4.60129309] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 35, Loss 602.8004183769226
+[4.84418702 4.63474917 4.70444417 4.66719294 4.60111237] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 36, Loss 602.8004031181335
+[4.84418678 4.63330722 4.72675467 4.65821743 4.60103512] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 37, Loss 602.8004031181335
+[4.84418678 4.63253093 4.72416043 4.65021396 4.60100174] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 38, Loss 602.8004031181335
+[4.84418678 4.63269973 4.71996927 4.64928174 4.60098767] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 39, Loss 602.8004031181335
+[4.84418678 4.63006139 4.69956374 4.64779139 4.600981  ] [1. 0. 0. 0. 0.]
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.6347, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 40, Loss 602.8004031181335
+cccccc
+ddddddd
+eeeeeee
+0.693 0.695
+[4.84418678 4.82666039 4.83367634 4.81538987 4.80689549] [0.9360413  0.02197192 0.02896143 0.01074386 0.00228149]

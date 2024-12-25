@@ -1,0 +1,42 @@
+Given edge_index,x graph data,
+You need to use Pytorch to design a function to perform random operations,
+returning updated node, edge data
+I have 2 existing algorithms with their codes as follows:
+No.1 algorithm and the corresponding code are:
+
+The new algorithm randomly shuffles the node features represented in x without changing the edge connections represented in edge_index.
+
+import torch
+import numpy as np
+
+def custom(edge_index, x):
+    x_shuffled = torch.randperm(x.size(0))
+    return edge_index,x
+
+No.2 algorithm and the corresponding code are:
+Algorithm description: Select a random subset of edges in the graph and randomly shuffle their indices while keeping the node features unchanged.
+import torch
+import numpy as np
+
+def custom(edge_index, x):
+    edge_num = edge_index.size(1)
+    shuffle_num = int(edge_num * 0.2)
+
+    idx_shuffle = np.random.choice(edge_num, shuffle_num, replace=False)
+    edge_index[:, idx_shuffle] = edge_index[:, np.random.permutation(idx_shuffle)]
+
+    return edge_index,x
+
+Please help me create a new algorithm that has a totally different form from the given ones but can be motivated from them.
+Firstly, identify the common backbone idea in the provided algorithms.
+Secondly, based on the backbone idea describe your new algorithm in one sentence.
+The description must be inside a brace.
+Thirdly, implement it in Python as a function named custom.
+This function should accept 1 input(s): 'edge_index,x'.
+The function should return 1 output(s): 'edge_index,x'. 'edge_index=[2, 24905]: This section describes the edges in the graph.
+Each column represents an edge, with the first row being the index of the starting node and the second row being the index of the ending node.
+There are 24905 edges here.
+x=[2443, 1]: This section represents the characteristics of a node and is typically used to describe its attributes.
+In this example, there are 2443 nodes, each with 1 features. return edge_index,x:The changed value
+Do not give additional explanations.
+

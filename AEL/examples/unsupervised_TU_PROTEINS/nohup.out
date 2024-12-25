@@ -1,0 +1,1842 @@
+1113
+3
+================
+lr: 0.01
+num_features: 3
+hidden_dim: 32
+num_gc_layers: 3
+================
+tensor(4.9050, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1883, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9172, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7244, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6587, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6581, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5652, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3359, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0094, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 1, Loss 469.9790387418535
+[2.45339549 2.56715763 4.57037282 3.04783106 2.45339572] [0. 0. 1. 0. 0.]
+tensor(4.2400, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2718, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4428, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4103, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2840, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1469, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1579, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2619, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8517, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 2, Loss 524.7088770071665
+[3.3259517  3.39242744 4.18292809 3.58173609 3.32595181] [0. 0. 1. 0. 0.]
+tensor(4.1518, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2022, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2848, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2073, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2474, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2936, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1523, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0194, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7770, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 3, Loss 514.63022602929
+[3.18462825 3.26053166 4.1402359  3.53883624 3.18462825] [0. 0. 1. 0. 0.]
+tensor(4.0687, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9271, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1680, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9375, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1722, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9364, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0410, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6644, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 4, Loss 495.88701441552905
+[2.96835148 3.06868446 4.15476418 3.37702763 2.96835148] [0. 0. 1. 0. 0.]
+tensor(4.0290, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9360, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0860, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1985, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9335, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2339, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9727, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8799, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6286, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 5, Loss 494.82589130931433
+[3.06087136 3.16623807 4.12932944 3.44989884 3.06087136] [0. 0. 1. 0. 0.]
+tensor(3.9206, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9363, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9620, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2098, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9614, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9892, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8775, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9203, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5195, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 6, Loss 486.74290283521015
+[2.88851655 3.00870991 4.1436677  3.30529785 2.88851655] [0. 0. 1. 0. 0.]
+tensor(4.0323, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8290, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9127, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1090, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9201, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1007, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0152, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8552, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5226, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 7, Loss 486.73546494377985
+[2.85118496 2.96492243 4.13553286 3.28427315 2.85118484] [0. 0. 1. 0. 0.]
+tensor(4.0333, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8348, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9798, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0759, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0313, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0176, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9451, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9012, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5971, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 8, Loss 488.1079352961646
+[2.95482111 3.08323777 4.12800288 3.46104085 2.95482111] [0. 0. 1. 0. 0.]
+tensor(3.9483, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8930, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0070, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1178, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8817, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0516, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9258, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7791, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6518, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 9, Loss 485.5949172708723
+[2.77941906 2.89855313 4.06211221 3.22289705 2.77941906] [0. 0. 1. 0. 0.]
+tensor(3.7848, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8427, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0966, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0956, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0181, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9751, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9123, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8703, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6832, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 10, Loss 485.7823280228509
+[2.86653531 2.98318803 4.26742184 3.289644   2.86653519] [0. 0. 1. 0. 0.]
+tensor(4.0312, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9812, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0892, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9690, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8663, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9312, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8278, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8673, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4277, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 11, Loss 482.79564208454553
+[2.79289794 2.9586575  4.11343122 3.31863499 2.79289794] [0. 0. 1. 0. 0.]
+tensor(3.9748, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9970, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9852, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2557, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7684, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0300, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9663, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8877, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5764, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 12, Loss 488.56090415848627
+[2.85292554 2.98089743 3.99153423 3.35694456 2.8529253 ] [0. 0. 1. 0. 0.]
+tensor(3.9236, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7946, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9289, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8438, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9645, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0078, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7641, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9132, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4956, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 13, Loss 477.45449079407587
+[2.77545464 2.89841485 3.86372912 3.24869108 2.77545476] [0. 0. 1. 0. 0.]
+tensor(3.8350, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7425, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9663, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8973, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9521, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8693, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0004, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7300, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4621, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 14, Loss 475.02536670366925
+[2.68358374 2.81571758 3.98387074 3.16228592 2.68358386] [0. 0. 1. 0. 0.]
+tensor(4.0274, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9355, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0026, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1307, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9173, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9390, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7564, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7964, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4849, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 15, Loss 482.53755074077185
+[2.82039297 2.9465723  4.04146171 3.32650304 2.82039297] [0. 0. 1. 0. 0.]
+tensor(3.9048, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7717, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9706, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1195, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8866, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0793, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9385, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8133, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7330, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 16, Loss 484.69090445836383
+[2.83012521 2.9784224  3.97630465 3.37736559 2.83012521] [0. 0. 1. 0. 0.]
+tensor(3.8909, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7994, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9222, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8211, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7987, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8943, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7390, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8376, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5564, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 17, Loss 471.8370090590583
+[2.6074264  2.73268008 3.91612732 3.13171625 2.60742652] [0. 0. 1. 0. 0.]
+tensor(3.7416, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7793, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9804, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7994, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8526, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9802, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7623, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8792, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4722, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 18, Loss 472.0243733723958
+[2.66030777 2.79507124 4.04818821 3.13811386 2.66030765] [0. 0. 1. 0. 0.]
+tensor(3.7578, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7937, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8451, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8791, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9097, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8220, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7876, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8276, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6115, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 19, Loss 471.23611826366846
+[2.62599587 2.7567668  4.01636851 3.1213305  2.62599587] [0. 0. 1. 0. 0.]
+tensor(3.8720, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8633, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0003, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0125, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8374, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9432, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7809, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7778, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3456, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 20, Loss 475.217709408866
+[2.66010451 2.85351908 3.94557631 3.27254879 2.66010451] [0. 0. 1. 0. 0.]
+tensor(3.9719, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6838, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9978, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0720, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8348, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8603, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7897, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9417, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3680, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 21, Loss 476.3556323581272
+[2.43895459 2.62140691 3.98457706 3.07792103 2.43895459] [0. 0. 1. 0. 0.]
+tensor(3.9450, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7744, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9324, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8071, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7040, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7697, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8238, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8333, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3201, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 22, Loss 467.8870269987318
+[2.69862223 2.85324574 3.99600554 3.30249012 2.69862223] [0. 0. 1. 0. 0.]
+tensor(3.8255, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7733, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8062, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7540, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8019, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0975, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6845, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7990, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5947, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 23, Loss 469.92034361097546
+[2.41719747 2.62662816 3.91877687 3.0473541  2.41719735] [0. 0. 1. 0. 0.]
+tensor(3.8600, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8167, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8343, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9509, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9078, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8946, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6561, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6951, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6584, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 24, Loss 471.59753868314954
+[2.54496574 2.69865894 3.93161154 3.23706663 2.54496574] [0. 0. 1. 0. 0.]
+tensor(3.7841, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6131, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8605, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8569, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8346, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8966, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9087, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7471, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3874, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 25, Loss 467.297431839837
+[2.51306772 2.68861079 3.86244667 3.07973552 2.51306772] [0. 0. 1. 0. 0.]
+tensor(3.7634, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6577, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8512, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9776, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7717, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8783, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9515, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8229, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4371, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 26, Loss 470.24461913108826
+[2.52261448 2.71747589 3.95995057 3.16632712 2.52261448] [0. 0. 1. 0. 0.]
+tensor(4.0599, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6970, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0624, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8688, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6966, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8049, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7406, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6750, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3966, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 27, Loss 468.86610391404895
+[2.49727237 2.70735908 3.99230754 3.08617342 2.49727237] [0. 0. 1. 0. 0.]
+tensor(3.6847, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7899, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7616, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7602, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6423, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8139, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8044, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7063, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4701, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 28, Loss 460.46034900347394
+[2.30246127 2.52721131 3.99340212 3.0576663  2.30246115] [0. 0. 1. 0. 0.]
+tensor(3.7561, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6040, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8798, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9638, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8987, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8280, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8299, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7116, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4168, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 29, Loss 467.16765764024524
+[2.49651146 2.6750536  3.83865035 3.14617085 2.49651146] [0. 0. 1. 0. 0.]
+tensor(3.7670, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6903, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9034, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7498, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7887, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8430, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7056, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7913, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4352, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 30, Loss 464.0377239121331
+[2.36981428 2.5523355  3.89987969 3.04148054 2.36981428] [0. 0. 1. 0. 0.]
+tensor(3.8297, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7872, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0901, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9177, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7047, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0042, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0428, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7749, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4246, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 31, Loss 476.905660920673
+[2.48166656 2.68527114 3.90955901 3.10856354 2.48166656] [0. 0. 1. 0. 0.]
+tensor(3.7360, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7601, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9116, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8833, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8077, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7387, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8177, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7875, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2615, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 32, Loss 465.2139489120907
+[2.36751401 2.57698977 3.83254933 3.01109517 2.36751401] [0. 0. 1. 0. 0.]
+tensor(3.8776, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6508, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9399, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7655, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6990, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9891, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5711, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9176, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4473, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 33, Loss 466.594936715232
+[2.36937439 2.58915341 3.88270855 3.05388927 2.36937439] [0. 0. 1. 0. 0.]
+tensor(3.6995, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7199, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8238, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7966, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8645, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9450, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7857, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7696, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2957, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 34, Loss 465.01281852192346
+[2.35414779 2.64293408 3.96721745 3.19322109 2.35414767] [0. 0. 1. 0. 0.]
+tensor(3.7509, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5477, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8313, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7786, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7433, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7751, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7788, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6826, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.1851, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 35, Loss 456.57421321339075
+[2.26473355 2.50115228 3.90907598 2.97599339 2.26473355] [0. 0. 1. 0. 0.]
+tensor(3.8082, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8266, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8166, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9147, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6597, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8261, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7535, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6887, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2309, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 36, Loss 462.7990600797865
+[2.32496142 2.58013797 3.94211459 2.99826789 2.32496142] [0. 0. 1. 0. 0.]
+tensor(3.7193, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5832, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7350, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8019, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8218, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7810, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6216, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8492, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3562, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 37, Loss 458.617472993003
+[2.3426826  2.58853221 3.9910357  2.97679794 2.3426826 ] [0. 0. 1. 0. 0.]
+tensor(3.9000, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5773, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7794, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8480, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6827, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9788, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7004, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7231, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4036, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 38, Loss 463.0213140911526
+[2.34552228 2.60734808 3.87586498 3.00773215 2.34552228] [0. 0. 1. 0. 0.]
+tensor(3.9147, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6248, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7150, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9404, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7907, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7958, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7989, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6391, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5348, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 39, Loss 464.74114934603375
+[2.39269233 2.63458562 3.86569881 3.05880034 2.39269233] [0. 0. 1. 0. 0.]
+tensor(3.7352, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7005, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7819, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9007, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7172, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8665, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7205, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7872, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3321, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 40, Loss 462.5995723671383
+cccccc
+ddddddd
+eeeeeee
+0.7681467181467182 0.7566039253539254
+[3.63471007 4.11013603 4.7867167  4.55143714 3.63471007] [0. 0. 1. 0. 0.]
+1113
+3
+================
+lr: 0.01
+num_features: 3
+hidden_dim: 32
+num_gc_layers: 3
+================
+tensor(3.6023, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0485, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2255, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0701, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9056, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7051, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.7146, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0229, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.4429, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 1, Loss 369.6797108385298
+[1.94195867 2.18449593 4.44045758 2.71836913 1.94195879] [0. 0. 1. 0. 0.]
+tensor(5.0008, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4551, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3647, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3142, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2936, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3836, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1973, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3331, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8386, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 2, Loss 540.608055194219
+[2.48563385 2.65078723 4.36223602 3.06445122 2.48563373] [0. 0. 1. 0. 0.]
+tensor(4.3241, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0503, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1813, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2533, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1695, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2701, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9824, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0308, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8369, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 3, Loss 511.0004776053959
+[2.48901248 2.6151433  4.27009821 3.1170851  2.48901248] [0. 0. 1. 0. 0.]
+tensor(4.2467, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0077, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0278, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1159, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0885, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0043, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0371, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9007, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7318, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 4, Loss 498.10984669791327
+[2.43003464 2.58383703 4.1786921  3.07810497 2.43003452] [0. 0. 1. 0. 0.]
+tensor(4.0683, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9874, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1169, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9121, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8790, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0625, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9762, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9600, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5118, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 5, Loss 489.3037112553914
+[2.30734229 2.44830239 4.17370272 2.99624085 2.30734229] [0. 0. 1. 0. 0.]
+tensor(4.1468, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8937, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8323, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2067, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1396, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8352, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9131, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6863, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 6, Loss 490.6499632994334
+[2.40125406 2.54566181 4.13110781 3.03991413 2.40125406] [0. 0. 1. 0. 0.]
+tensor(4.0902, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8864, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9291, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9324, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9730, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8736, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8496, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9250, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6578, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 7, Loss 483.5924818250868
+[2.34375548 2.53972578 4.09108901 3.05002832 2.3437556 ] [0. 0. 1. 0. 0.]
+tensor(4.1897, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9029, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8216, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8609, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0596, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9825, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8199, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8430, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7850, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 8, Loss 485.14655987421673
+[2.335742   2.50183737 4.08694935 3.07320035 2.33574212] [0. 0. 1. 0. 0.]
+tensor(3.9251, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7819, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8926, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8282, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9568, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8954, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0073, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9289, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6967, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 9, Loss 480.5209805700514
+[2.30389524 2.53288281 4.12442327 2.94789863 2.30389512] [0. 0. 1. 0. 0.]
+tensor(3.9162, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9633, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0409, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8544, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8849, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8331, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8683, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6916, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 10, Loss 480.656721856859
+[2.37265682 2.52649152 4.10568881 3.06519401 2.37265706] [0. 0. 1. 0. 0.]
+tensor(4.0270, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8412, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8953, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7662, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0504, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9172, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9072, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8834, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7278, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 11, Loss 481.84874794218274
+[2.32635498 2.50832784 4.06502581 2.9834218  2.32635498] [0. 0. 1. 0. 0.]
+tensor(3.8952, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8597, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9198, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7124, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9810, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8857, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8191, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8096, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6322, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 12, Loss 475.13530500729877
+[2.27290666 2.47856045 4.12991333 3.09150553 2.27290666] [0. 0. 1. 0. 0.]
+tensor(3.9923, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9334, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8300, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9930, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9440, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7700, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8587, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6454, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 13, Loss 479.15281478563946
+[2.27073312 2.51613641 4.11861062 3.04674649 2.27073312] [0. 0. 1. 0. 0.]
+tensor(4.0819, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8187, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8425, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7833, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9709, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7636, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0619, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6246, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 14, Loss 479.4485615359412
+[2.23505282 2.42832553 4.0251832  2.96077299 2.2350527 ] [0. 0. 1. 0. 0.]
+tensor(3.9102, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7683, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9091, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9261, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0076, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7998, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7453, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3346, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 15, Loss 472.7527396943834
+[2.21676743 2.43963695 4.0594846  3.02718282 2.21676755] [0. 0. 1. 0. 0.]
+tensor(3.9728, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7795, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9295, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7352, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7895, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7806, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6843, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6398, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 16, Loss 471.57603936725195
+[2.19043875 2.4185921  4.17953849 2.94753218 2.19043875] [0. 0. 1. 0. 0.]
+tensor(3.8616, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8366, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8814, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8152, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9054, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7375, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7560, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8592, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5100, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 17, Loss 470.662178489897
+[2.12923217 2.36918795 4.06722617 2.93626106 2.12923229] [0. 0. 1. 0. 0.]
+tensor(3.8935, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6736, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9534, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8191, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8286, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7919, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8217, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7919, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6131, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 18, Loss 470.5557686222924
+[2.17945838 2.45518851 4.24451613 3.03463268 2.17945838] [0. 0. 1. 0. 0.]
+tensor(3.7734, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8673, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7882, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8617, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9295, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9137, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7864, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8806, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5457, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 19, Loss 473.1178388595581
+[2.25513959 2.5127039  3.98194504 3.17529273 2.25513959] [0. 0. 1. 0. 0.]
+tensor(3.8316, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8849, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7680, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9054, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8465, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7885, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7864, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7338, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4736, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 20, Loss 468.7708649635315
+[2.16951931 2.46834874 4.33589935 3.10044503 2.16951954] [0. 0. 1. 0. 0.]
+tensor(3.8898, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6636, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8947, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7205, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8852, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7377, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8433, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6931, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3568, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 21, Loss 464.5251491864522
+[2.08455563 2.38673389 4.02592993 2.95261419 2.08455563] [0. 0. 1. 0. 0.]
+tensor(3.7722, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7189, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7230, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8753, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7695, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7254, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8287, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5764, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6350, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 22, Loss 462.4630812274085
+[2.1178441  2.36358643 4.06298089 2.93638372 2.1178441 ] [0. 0. 1. 0. 0.]
+tensor(3.9516, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7027, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8078, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7415, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9140, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7798, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5900, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8248, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7941, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 23, Loss 468.6258067025079
+[2.22064662 2.47197938 4.01020074 3.02168584 2.22064674] [0. 0. 1. 0. 0.]
+tensor(3.8096, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7803, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8266, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7558, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7644, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8793, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6822, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6796, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2727, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 24, Loss 461.55785499678717
+[2.110533   2.35197735 4.00508618 3.10694027 2.110533  ] [0. 0. 1. 0. 0.]
+tensor(3.7597, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7523, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6970, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7088, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7900, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9258, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6254, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8463, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5054, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 25, Loss 462.8274300098419
+[2.11555195 2.37542164 4.09060884 2.98464751 2.11555195] [0. 0. 1. 0. 0.]
+tensor(3.8250, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6817, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6792, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8357, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7419, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6198, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7643, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6415, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7027, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 26, Loss 460.2818372514513
+[2.12118363 2.36569846 4.00325644 3.01401508 2.12118351] [0. 0. 1. 0. 0.]
+tensor(3.8114, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6323, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8662, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8644, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6629, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6707, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8713, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3656, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 27, Loss 460.43744696511163
+[2.02868211 2.35330355 3.93669748 2.99810922 2.02868223] [0. 0. 1. 0. 0.]
+tensor(3.8196, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7334, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7228, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7150, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7425, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9950, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7567, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6995, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4741, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 28, Loss 463.6448330349392
+[2.04323268 2.29853439 3.97401202 2.99571049 2.04323268] [0. 0. 1. 0. 0.]
+tensor(3.8304, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6767, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5951, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7089, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6884, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7744, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5630, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7565, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2334, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 29, Loss 452.85901358392505
+[2.07576466 2.35358715 3.94231892 3.03047919 2.07576466] [0. 0. 1. 0. 0.]
+tensor(4.0066, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7883, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6852, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6846, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6938, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8772, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8069, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8591, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3448, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 30, Loss 465.45410572157965
+[2.13261938 2.40492129 3.97760379 3.01532483 2.13261926] [0. 0. 1. 0. 0.]
+tensor(3.7130, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6996, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8001, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7454, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6417, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7447, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5709, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4161, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 31, Loss 454.0456046793196
+[2.07170713 2.32691097 4.05879998 2.91870689 2.07170701] [0. 0. 1. 0. 0.]
+tensor(3.6393, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6404, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8131, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7647, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8453, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5975, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6520, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7377, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6676, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 32, Loss 458.5258257653978
+[2.13398683 2.36645627 4.09367228 2.88502622 2.13398707] [0. 0. 1. 0. 0.]
+tensor(3.8303, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6711, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9096, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7225, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8721, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6870, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7036, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7266, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4297, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 33, Loss 462.32868716451856
+[2.12551117 2.43440461 3.95751715 3.00095677 2.12551141] [0. 0. 1. 0. 0.]
+tensor(3.7646, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6378, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7605, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7646, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8793, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6943, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7320, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6899, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3688, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 34, Loss 458.88546874788074
+[2.14241242 2.41014576 4.04571342 3.05040216 2.14241242] [0. 0. 1. 0. 0.]
+tensor(3.9143, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5893, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6568, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7561, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1008, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7389, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6107, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6195, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4411, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 35, Loss 460.50185855229694
+[2.1244843  2.39390552 4.06563115 3.01429892 2.12448418] [0. 0. 1. 0. 0.]
+tensor(3.8660, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6786, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7339, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7707, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7914, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7078, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7428, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2675, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 36, Loss 459.64005647765265
+[2.05916357 2.33796036 3.96865129 2.90311885 2.05916357] [0. 0. 1. 0. 0.]
+tensor(3.7106, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7556, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6667, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7290, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8531, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6656, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4622, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7237, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4527, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 37, Loss 454.6454571882884
+[2.00596344 2.33318269 4.03220034 3.04853964 2.00596344] [0. 0. 1. 0. 0.]
+tensor(3.8847, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5575, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6777, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7960, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7214, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8511, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6663, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5508, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 38, Loss 461.9200340906779
+[2.11316299 2.43406785 4.02210641 2.93832028 2.11316299] [0. 0. 1. 0. 0.]
+tensor(3.7145, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7199, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8929, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7843, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9364, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7507, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8213, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7469, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3737, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 39, Loss 465.2480175230238
+[2.13031554 2.42359626 3.87212276 3.06693947 2.13031554] [0. 0. 1. 0. 0.]
+tensor(3.8443, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6268, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7997, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6837, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8317, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8076, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6784, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9465, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5322, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 40, Loss 464.7068790329827
+cccccc
+ddddddd
+eeeeeee
+0.7520431145431145 0.7474742599742601
+[3.47897816 4.19022655 5.03071356 4.52759218 3.47897792] [0. 0. 1. 0. 0.]
+1113
+3
+================
+lr: 0.01
+num_features: 3
+hidden_dim: 32
+num_gc_layers: 3
+================
+tensor(3.5696, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.1362, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.0374, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.8220, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9044, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.8624, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.9816, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.6922, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(2.2813, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 1, Loss 363.9756598737505
+[1.69497037 2.08867371 4.59031343 2.87197042 1.69497025] [0. 0. 1. 0. 0.]
+tensor(5.0379, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3836, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3231, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2539, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1558, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1099, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2339, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1551, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7653, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 2, Loss 530.0806753900316
+[2.4241811  2.64253044 4.39099002 3.21318221 2.42418122] [0. 0. 1. 0. 0.]
+tensor(4.1099, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1671, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9333, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1650, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0865, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0186, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1713, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0746, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6577, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 3, Loss 501.61092106501263
+[2.58497715 2.7621305  4.28628492 3.29165363 2.58497703] [0. 0. 1. 0. 0.]
+tensor(3.9035, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1055, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1486, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1102, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0127, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0734, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0708, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0383, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6291, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 4, Loss 497.5847042666541
+[2.45626485 2.60901892 4.03137565 3.14836252 2.45626497] [0. 0. 1. 0. 0.]
+tensor(3.9448, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1068, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9804, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9980, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0026, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0079, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9317, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0368, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7670, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 5, Loss 492.4924094412062
+[2.5392983  2.7014358  4.21774054 3.20648444 2.5392983 ] [0. 0. 1. 0. 0.]
+tensor(4.0964, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9559, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8776, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9946, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8795, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8807, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9795, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8756, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6211, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 6, Loss 484.37479779455396
+[2.35943782 2.56109142 4.14705253 3.25937068 2.35943794] [0. 0. 1. 0. 0.]
+tensor(4.1104, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0507, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9418, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8587, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0119, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9863, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9490, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8778, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5475, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 7, Loss 487.1554506354862
+[2.50471509 2.67546809 4.27637672 3.27638388 2.50471509] [0. 0. 1. 0. 0.]
+tensor(3.9446, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8764, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9138, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8311, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9157, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7630, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0151, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8831, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6487, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 8, Loss 479.00138823191327
+[2.39536977 2.63108635 4.23388505 3.32196057 2.39536977] [0. 0. 1. 0. 0.]
+tensor(3.9769, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8172, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8666, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7587, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9193, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7666, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9845, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9109, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6344, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 9, Loss 476.8403999010722
+[2.4895072  2.68236327 4.22530437 3.21009326 2.48950708] [0. 0. 1. 0. 0.]
+tensor(3.9465, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9335, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8589, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8031, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9215, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8687, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9791, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8876, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5335, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 10, Loss 478.6587843630049
+[2.2977289  2.50173414 4.15249681 3.08444583 2.2977289 ] [0. 0. 1. 0. 0.]
+tensor(3.7839, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9089, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8825, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9982, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8577, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9594, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8992, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7749, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6027, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 11, Loss 477.4358454545339
+[2.36191034 2.59267545 4.17780614 3.15653634 2.36191034] [0. 0. 1. 0. 0.]
+tensor(3.7992, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9652, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9602, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8539, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8907, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7763, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1213, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7602, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5825, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 12, Loss 478.1215541097853
+[2.42336881 2.64277673 4.16856146 3.26608932 2.42336881] [0. 0. 1. 0. 0.]
+tensor(4.0131, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9540, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8181, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8384, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8762, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1026, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9069, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7927, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5565, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 13, Loss 480.3550413184696
+[2.35373724 2.58771741 4.04775763 3.2554338  2.35373724] [0. 0. 1. 0. 0.]
+tensor(3.8487, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9087, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8583, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8814, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8974, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7932, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0997, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8800, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8002, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 14, Loss 480.848189857271
+[2.28609669 2.57548451 4.11522985 3.12545705 2.28609681] [0. 0. 1. 0. 0.]
+tensor(3.8029, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9280, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0229, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8642, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8487, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7934, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9825, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8754, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6418, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 15, Loss 478.58228182792664
+[2.39688909 2.60514605 4.11987686 3.12127435 2.39688909] [0. 0. 1. 0. 0.]
+tensor(3.9672, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9234, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9449, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9087, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8560, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7932, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8916, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6427, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3788, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 16, Loss 473.2725483311547
+[2.27148092 2.53460097 4.24678326 3.12362254 2.27148092] [0. 0. 1. 0. 0.]
+tensor(3.6728, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0241, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8158, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9035, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7789, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6627, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0111, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7934, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4055, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 17, Loss 469.7621031867133
+[2.21235824 2.54267097 4.02217174 3.24692488 2.21235824] [0. 0. 1. 0. 0.]
+tensor(3.7882, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8414, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6786, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8220, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8196, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7693, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8576, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8435, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6350, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 18, Loss 468.5891622702281
+[2.20941162 2.46530569 4.18549562 3.06313169 2.20941174] [0. 0. 1. 0. 0.]
+tensor(3.9110, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8943, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7117, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9135, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8814, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6625, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9694, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6358, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5908, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 19, Loss 470.4188576274448
+[2.29455888 2.52879858 4.04627657 3.07644796 2.29455876] [0. 0. 1. 0. 0.]
+tensor(3.7770, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8941, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9224, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9070, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7417, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8221, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8897, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7291, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6109, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 20, Loss 472.09217026498584
+[2.20685029 2.4706583  4.00415635 3.19799876 2.20685005] [0. 0. 1. 0. 0.]
+tensor(3.7365, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8562, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6694, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6851, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6763, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6679, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9266, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8325, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3126, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 21, Loss 460.1435998015934
+[2.07002544 2.38795054 4.05235481 3.05809212 2.07002544] [0. 0. 1. 0. 0.]
+tensor(4.0157, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9068, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7169, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7107, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8259, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8494, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7670, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8823, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5767, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 22, Loss 471.6321271525489
+[2.29638898 2.52628005 3.95616877 3.08578527 2.29638898] [0. 0. 1. 0. 0.]
+tensor(3.9279, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9360, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9178, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8675, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9697, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8919, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7762, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7413, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5319, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 23, Loss 476.2186562485165
+[2.37816978 2.61670244 4.13963246 3.17936265 2.37816954] [0. 0. 1. 0. 0.]
+tensor(3.8313, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7807, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6909, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7329, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6319, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6943, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0607, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7946, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7239, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 24, Loss 466.5814914968279
+[2.14558315 2.44457567 4.09986401 3.10400271 2.14558327] [0. 0. 1. 0. 0.]
+tensor(3.6575, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9543, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8646, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6551, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7820, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8390, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9182, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7636, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4887, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 25, Loss 467.3413504494561
+[2.18761826 2.44496655 4.08594847 3.13276291 2.18761814] [0. 0. 1. 0. 0.]
+tensor(3.8144, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9540, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6213, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7753, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7448, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8081, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7776, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8364, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4334, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 26, Loss 465.3395975165897
+[2.1412034  2.4270556  3.99654031 3.07983124 2.1412034 ] [0. 0. 1. 0. 0.]
+tensor(3.8093, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8200, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8023, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8581, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8320, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7125, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8467, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7264, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4131, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 27, Loss 466.2099648316701
+[2.2257328  2.4956665  3.955024   3.04352629 2.2257328 ] [0. 0. 1. 0. 0.]
+tensor(3.8218, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8578, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7766, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6757, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6241, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7220, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7886, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8267, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5040, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 28, Loss 462.6423814561632
+[2.17824769 2.46916628 4.10928273 3.19507611 2.17824769] [0. 0. 1. 0. 0.]
+tensor(3.7274, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7412, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6445, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8113, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7296, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8593, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8310, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6894, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5295, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 29, Loss 462.0485331217448
+[2.16021562 2.46383786 4.13387179 3.0997355  2.16021562] [0. 0. 1. 0. 0.]
+tensor(3.7895, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8480, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6334, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8014, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6307, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7323, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8513, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6708, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4326, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 30, Loss 460.0033705499437
+[2.13608301 2.46494639 4.07684541 3.13026357 2.13608289] [0. 0. 1. 0. 0.]
+tensor(3.6882, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8101, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6917, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8377, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7237, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7616, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6854, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8574, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.4508, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 31, Loss 461.5866696039836
+[2.16666079 2.45844662 4.10152149 3.09541523 2.16666079] [0. 0. 1. 0. 0.]
+tensor(3.6964, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8107, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7989, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6322, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9053, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7731, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8318, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7399, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5595, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 32, Loss 464.5427526897854
+[2.20160425 2.49656177 3.98220396 3.13636422 2.20160425] [0. 0. 1. 0. 0.]
+tensor(3.8173, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8130, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7502, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6648, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7012, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6946, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7470, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6699, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3740, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 33, Loss 458.011122279697
+[2.17358935 2.47108066 4.11086488 3.0650202  2.17358935] [0. 0. 1. 0. 0.]
+tensor(3.8239, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6471, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7877, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6102, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7719, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5914, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6840, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8286, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6993, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 34, Loss 459.61942235628766
+[2.04466832 2.35087478 4.08885598 3.1228199  2.04466826] [0. 0. 1. 0. 0.]
+tensor(3.8400, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7805, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8105, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6484, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6834, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7149, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7145, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6760, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3817, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 35, Loss 458.23218080732556
+[2.16752529 2.45837426 4.17079377 3.16960001 2.16752529] [0. 0. 1. 0. 0.]
+tensor(3.6957, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8418, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6071, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6418, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6630, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8984, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7439, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5188, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 36, Loss 459.28786873817444
+[2.09427297 2.44761491 4.09939456 3.07366717 2.09427297] [0. 0. 1. 0. 0.]
+tensor(3.8228, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9234, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8149, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6874, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8804, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6625, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9886, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7139, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.3043, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 37, Loss 466.36583201090497
+[2.19203091 2.4802773  4.01504683 3.22836006 2.19203091] [0. 0. 1. 0. 0.]
+tensor(3.7704, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7868, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6821, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6542, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6137, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6531, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9167, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8560, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.2872, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 38, Loss 458.22022612889606
+[2.07332551 2.42352891 3.96974671 3.07063103 2.07332551] [0. 0. 1. 0. 0.]
+tensor(3.7154, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7061, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6829, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5742, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5305, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6432, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8576, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8370, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5393, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 39, Loss 455.2219960424635
+[2.17821288 2.47433805 3.93820667 3.15177882 2.17821288] [0. 0. 1. 0. 0.]
+tensor(3.8244, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7265, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.6798, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7751, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8927, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7499, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7881, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7070, device='cuda:0', grad_fn=<NegBackward0>)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+tensor(3.7086, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 40, Loss 465.3802871969011
+cccccc
+ddddddd
+eeeeeee
+0.7456885456885456 0.7510778635778635
+[3.36007452 4.28965425 5.04903054 4.07413912 3.36007452] [0. 0. 1. 0. 0.]
+1113
+3
+================
+lr: 0.01
+num_features: 3
+hidden_dim: 32
+num_gc_layers: 3
+================
+tensor(4.9402, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3606, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3149, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2248, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0660, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0257, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0096, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9591, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7352, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 1, Loss 519.0844159126282
+[4.87475014 2.83453619 4.42620301 3.2108562  2.74101484] [0.72390396 0.         0.27609604 0.         0.        ]
+tensor(4.9449, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8839, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.8987, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5939, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4410, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5823, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4768, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4790, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1315, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 2, Loss 571.3513517379761
+[4.57471323 3.80909598 4.26045752 3.90455735 3.77410805] [0.85910835 0.         0.14089165 0.         0.        ]
+tensor(4.5266, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5607, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5218, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4806, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4087, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4760, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5236, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3282, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1875, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 3, Loss 550.9402267667982
+[4.52465773 3.73272872 4.20605946 3.86786056 3.70394778] [0.98056987 0.         0.01943013 0.         0.        ]
+tensor(4.5325, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5237, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4978, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4342, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3922, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5163, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4718, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3254, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0434, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 4, Loss 547.6301771269905
+[4.46333742 3.85578382 4.37655735 3.98725176 3.82535994] [0.97952709 0.         0.02047291 0.         0.        ]
+tensor(4.4900, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4348, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4193, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3828, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3615, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5271, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4092, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2660, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0236, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 5, Loss 541.7012066841125
+[4.39307833 3.84533131 4.32625484 3.95438194 3.80362666] [0.9656773 0.        0.0343227 0.        0.       ]
+tensor(4.4068, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3931, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4019, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2699, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5443, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3605, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2663, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0157, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 6, Loss 537.6478806071812
+[4.34185982 3.77600729 4.37745142 3.95846272 3.71623397] [0.90184142 0.         0.09815858 0.         0.        ]
+tensor(4.5909, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4787, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5165, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4565, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3512, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4997, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4126, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3747, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0858, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 7, Loss 547.8645658493042
+[4.46603632 3.63078403 4.37388492 3.85241127 3.56689978] [0.90720965 0.         0.09279035 0.         0.        ]
+tensor(4.4526, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4903, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4213, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4017, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3538, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4465, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4113, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2579, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0447, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 8, Loss 541.1231846809387
+[4.35336995 3.75961554 4.38364983 3.92144513 3.70608926] [0.85100753 0.         0.14899247 0.         0.        ]
+tensor(4.3327, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4199, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3471, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3959, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3007, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5081, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3869, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2167, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9586, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 9, Loss 535.6142014662424
+[4.40033197 3.62336493 4.28345871 3.78398716 3.56710291] [0.8741249 0.        0.1258751 0.        0.       ]
+tensor(4.4068, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3374, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3822, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3720, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2722, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4210, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3362, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2505, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9699, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 10, Loss 533.882461335924
+[4.35684109 3.69049001 4.36659622 3.84623981 3.62394547] [0.83358426 0.         0.16641574 0.         0.        ]
+tensor(4.3717, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3726, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3389, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3402, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2324, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4732, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4268, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2001, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9812, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 11, Loss 533.6780773533715
+[4.31510568 3.50776148 4.35044098 3.84267271 3.44775856] [0.78326231 0.         0.21673769 0.         0.        ]
+tensor(4.4118, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2883, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5320, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3245, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3445, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5075, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3749, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2335, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9910, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 12, Loss 537.4851018587748
+[4.35329676 3.72738647 4.35576916 3.9259187  3.66700506] [0.75338698 0.         0.24661302 0.         0.        ]
+tensor(4.3698, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3036, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4499, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3968, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3024, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4437, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3568, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2034, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8689, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 13, Loss 533.5679604742262
+[4.37029624 3.54708898 4.23819637 3.76781285 3.46676636] [0.79469138 0.         0.20530862 0.         0.        ]
+tensor(4.3451, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3502, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4960, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2615, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2695, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5167, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2835, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2503, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9407, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 14, Loss 533.5153398513794
+[4.34443974 3.50383997 4.27230525 3.70102143 3.43086457] [0.80323958 0.         0.19676042 0.         0.        ]
+tensor(4.3825, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3551, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3733, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2848, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2585, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3911, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3792, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2581, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8232, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 15, Loss 531.0710765520731
+[4.35513163 3.5513612  4.22760201 3.74896359 3.47403502] [0.83505996 0.         0.16494004 0.         0.        ]
+tensor(4.2606, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3122, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3138, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3152, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3465, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3630, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2777, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2205, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8160, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 16, Loss 527.1160075134701
+[4.32549667 3.50792515 4.30088329 3.739622   3.4349544 ] [0.81265665 0.         0.18734335 0.         0.        ]
+tensor(4.3091, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4005, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2908, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2900, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1986, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4534, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2574, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2015, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9436, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 17, Loss 528.2603897253672
+[4.28476858 3.44922054 4.32932591 3.69654644 3.38101673] [0.75758329 0.         0.24241671 0.         0.        ]
+tensor(4.2675, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2711, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3301, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2089, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2218, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4153, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2385, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1824, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7870, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 18, Loss 522.9343607955509
+[4.31195259 3.40618122 4.23875666 3.61899209 3.34103775] [0.76858065 0.         0.23141935 0.         0.        ]
+tensor(4.2974, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2856, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2689, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3949, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2442, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3191, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1956, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2131, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8815, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 19, Loss 525.0526638295916
+[4.42637515 3.35026217 4.24010634 3.61838198 3.2713232 ] [0.83487591 0.         0.16512409 0.         0.        ]
+tensor(4.4103, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3351, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2967, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3096, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2702, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4510, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1943, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1991, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8366, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 20, Loss 528.1265952587128
+cccccc
+ddddddd
+eeeeeee
+0.7556306306306306 0.7493404118404119
+[4.68762803 3.757128   4.38041258 4.12050247 3.64332366] [0.9526767 0.        0.0473233 0.        0.       ]
+tensor(4.2944, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3332, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2830, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3079, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2348, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5001, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1998, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0988, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9730, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 21, Loss 526.4287006590101
+[4.28224492 3.36170983 4.45947599 3.68008947 3.29102266] [0.8173773 0.        0.1826227 0.        0.       ]
+tensor(4.2595, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2528, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3603, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2332, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1312, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4471, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3134, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2332, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8853, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 22, Loss 525.2590948475731
+[4.31948233 3.46340513 4.16319132 3.6844604  3.39058697] [0.86420168 0.         0.13579832 0.         0.        ]
+tensor(4.2366, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2498, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1741, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3033, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1777, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4757, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1925, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1141, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9277, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 23, Loss 521.3113366497887
+[4.24055719 3.31277668 4.39587474 3.64214468 3.23561227] [0.75011499 0.         0.24988501 0.         0.        ]
+tensor(4.2480, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2131, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3244, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2759, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1636, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4312, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2013, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0311, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9127, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 24, Loss 520.6621642377642
+[4.27225184 3.37810516 4.30975533 3.69614279 3.30163527] [0.70840303 0.         0.29159697 0.         0.        ]
+tensor(4.2462, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2653, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1886, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2353, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4067, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0794, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7179, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 25, Loss 517.8201982710096
+[4.24459553 3.32848978 4.27027369 3.65195429 3.24673486] [0.67541974 0.         0.32458026 0.         0.        ]
+tensor(4.3001, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1793, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2822, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2628, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1413, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3491, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1612, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1859, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8418, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 26, Loss 519.5827703211042
+[4.29295444 3.35643816 4.25196362 3.68280196 3.26587272] [0.67815268 0.         0.32184732 0.         0.        ]
+tensor(4.3122, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2298, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2366, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1952, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1147, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5187, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1524, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2389, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8377, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 27, Loss 521.4857004748451
+[4.34134531 3.31452036 4.21548128 3.60659194 3.24164665] [0.72427544 0.         0.27572456 0.         0.        ]
+tensor(4.2769, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1833, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2607, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2089, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2382, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3835, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2137, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0756, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8725, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 28, Loss 519.585858742396
+[4.49226904 3.36618733 4.36108923 3.6666466  3.28137314] [0.76737526 0.         0.23262474 0.         0.        ]
+tensor(4.4391, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5078, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.5035, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2914, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1234, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4234, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1774, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1942, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8606, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 29, Loss 531.1222231653002
+[4.30572486 3.30768299 4.21264887 3.64812398 3.22919834] [0.78741829 0.         0.21258171 0.         0.        ]
+tensor(4.2675, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2685, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2046, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1854, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3566, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2388, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1252, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8906, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 30, Loss 520.8192794852787
+[4.30379128 3.44333506 4.32912087 3.73985434 3.36855865] [0.74610148 0.         0.25389852 0.         0.        ]
+tensor(4.2281, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2899, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2904, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3169, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2479, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3853, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2208, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1656, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7072, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 31, Loss 522.2771605650584
+[4.28950334 3.43870807 4.32146525 3.64490306 3.35155916] [0.70656874 0.         0.29343126 0.         0.        ]
+tensor(4.2203, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2422, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2876, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3618, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1622, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3887, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2620, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0721, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9135, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 32, Loss 522.2108422385322
+[4.35388803 3.33746994 4.17289662 3.62239087 3.26018608] [0.77386904 0.         0.22613096 0.         0.        ]
+tensor(4.2444, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2095, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2818, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2056, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2956, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1411, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1634, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8579, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 33, Loss 518.5174215899574
+[4.32070112 3.09383547 4.31226397 3.47542512 3.01846325] [0.75281206 0.         0.24718794 0.         0.        ]
+tensor(4.3006, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3112, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3460, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1213, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1246, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4099, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2887, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0429, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.8396, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 34, Loss 520.7456408076816
+[4.35292792 3.42135823 4.23137379 3.66414356 3.33469009] [0.7875966 0.        0.2124034 0.        0.       ]
+tensor(4.3164, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1963, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3305, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3000, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1415, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.4379, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1083, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0377, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9163, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 35, Loss 520.4148760106829
+[4.26609373 3.187289   4.49280667 3.53009343 3.09994495] [0.64510509 0.         0.35489491 0.         0.        ]
+tensor(4.1887, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2063, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2815, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1797, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2162, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3553, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1138, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1344, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9433, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 36, Loss 517.9400850401985
+[4.35151219 3.40906823 4.06787372 3.6925298  3.31709421] [0.77496326 0.         0.22503674 0.         0.        ]
+tensor(4.2430, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2660, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2770, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2038, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2007, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3443, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1032, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0704, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7372, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 37, Loss 516.3647872606913
+[4.30689311 3.15930927 4.31419134 3.54287505 3.08039308] [0.74514262 0.         0.25485738 0.         0.        ]
+tensor(4.2030, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2682, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2066, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2440, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1176, device='cuda:0', grad_fn=<NegBackward0>)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+/home/xtanghao/anaconda3/envs/pytorch/lib/python3.8/site-packages/torch_geometric/data/in_memory_dataset.py:300: UserWarning: It is not recommended to directly access the internal storage format `data` of an 'InMemoryDataset'. The given 'InMemoryDataset' only references a subset of examples of the full dataset, but 'data' will contain information of the full dataset. If you are absolutely certain what you are doing, access the internal storage via `InMemoryDataset._data` instead to suppress this warning. Alternatively, you can access stacked individual attributes of every graph via `dataset.{attr_name}`.
+  warnings.warn(msg)
+tensor(4.4087, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0728, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1095, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7187, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 38, Loss 515.0735263294644
+[4.28945208 3.36068034 4.38110232 3.64163637 3.24355543] [0.67436236 0.         0.32563764 0.         0.        ]
+tensor(4.1810, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2123, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1892, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2197, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1269, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2475, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.0644, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9806, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.5982, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 39, Loss 508.06833537419635
+[4.28995895 3.1848762  4.23154902 3.46095097 3.09606683] [0.68641231 0.         0.31358769 0.         0.        ]
+tensor(4.3180, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1799, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.2444, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1825, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1484, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.3544, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(4.1610, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.9641, device='cuda:0', grad_fn=<NegBackward0>)
+tensor(3.7632, device='cuda:0', grad_fn=<NegBackward0>)
+Epoch 40, Loss 514.408021291097
+cccccc
+ddddddd
+eeeeeee
+0.7447715572715573 0.7439591377091379
+[4.82210255 3.63844919 4.58341789 3.87210619 3.3818934 ] [0.78726708 0.         0.21273292 0.         0.        ]

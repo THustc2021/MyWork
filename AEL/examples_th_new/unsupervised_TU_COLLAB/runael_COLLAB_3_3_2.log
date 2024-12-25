@@ -1,0 +1,106 @@
+2024-08-19 09:29:01,494 - my_logger - INFO - ['ael_results_old', '__pycache__', 'nohup.out', 'ael_prompts.py', 'runael_COLLAB_3_3_2.log', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'runAEL.py', 'ael_evaluation.py', 'data', 'arguments.py', 'More', 'model.py', 'gin.py', 'README.md', 'ael_results', 'ael_results_final', 'th_notes.txt']
+2024-08-19 09:46:49,366 - my_logger - INFO - test population generation seed time: 17.783333333333335 m
+2024-08-19 09:46:49,366 - my_logger - INFO - write back seeds done.
+2024-08-19 09:51:39,283 - my_logger - INFO - evolution 1 cost time: 4.816666666666666 m
+2024-08-19 18:23:18,859 - my_logger - INFO - ['ael_results_old', '__pycache__', 'nohup.out', 'ael_prompts.py', 'runael_COLLAB_3_3_2.log', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'runAEL.py', 'ael_evaluation.py', 'data', 'arguments.py', 'More', 'model.py', 'gin.py', 'README.md', 'ael_results', 'ael_results_final', 'th_notes.txt']
+2024-08-19 18:46:19,878 - my_logger - INFO - test population generation seed time: 23.016666666666666 m
+2024-08-19 18:46:19,878 - my_logger - INFO - write back seeds done.
+2024-08-19 18:54:56,360 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.2934
+2024-08-19 18:54:56,360 - my_logger - INFO - evolution 1 cost time: 8.6 m
+2024-08-19 19:00:55,615 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.288
+2024-08-19 19:00:55,615 - my_logger - INFO - evolution 1 cost time: 5.983333333333333 m
+2024-08-19 19:09:30,586 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.311
+2024-08-19 19:09:30,586 - my_logger - INFO - evolution 1 cost time: 8.566666666666666 m
+2024-08-19 19:17:03,725 - my_logger - INFO - duplicated result, retrying ... 
+2024-08-19 19:17:03,725 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.2958
+2024-08-19 19:17:03,725 - my_logger - INFO - evolution 1 cost time: 7.55 m
+2024-08-19 19:17:03,725 - my_logger - INFO - >> 1 of 3 finished 
+2024-08-19 19:24:42,293 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.2854
+2024-08-19 19:24:42,294 - my_logger - INFO - evolution 1 cost time: 7.633333333333334 m
+2024-08-19 19:32:01,249 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.2998
+2024-08-19 19:32:01,249 - my_logger - INFO - evolution 1 cost time: 7.3 m
+2024-08-19 19:38:32,149 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.279
+2024-08-19 19:38:32,150 - my_logger - INFO - evolution 1 cost time: 6.5 m
+2024-08-19 19:45:49,702 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.3018
+2024-08-19 19:45:49,703 - my_logger - INFO - evolution 1 cost time: 7.283333333333333 m
+2024-08-19 19:45:49,703 - my_logger - INFO - >> 2 of 3 finished 
+2024-08-19 19:51:49,273 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.2944
+2024-08-19 19:51:49,273 - my_logger - INFO - evolution 1 cost time: 5.983333333333333 m
+2024-08-19 19:57:53,394 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.2946
+2024-08-19 19:57:53,395 - my_logger - INFO - evolution 1 cost time: 6.066666666666666 m
+2024-08-19 20:03:42,397 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.2962
+2024-08-19 20:03:42,397 - my_logger - INFO - evolution 1 cost time: 5.816666666666666 m
+2024-08-19 20:09:42,589 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.2848
+2024-08-19 20:09:42,589 - my_logger - INFO - evolution 1 cost time: 6.0 m
+2024-08-19 20:09:42,589 - my_logger - INFO - >> 3 of 3 finished 
+2024-08-19 20:09:42,589 - my_logger - INFO - fitness values of current population: 
+2024-08-19 20:09:42,589 - my_logger - INFO - 0.279 
+2024-08-19 20:09:42,589 - my_logger - INFO - 0.2848 
+2024-08-19 20:09:42,589 - my_logger - INFO - 0.2854 
+2024-08-19 20:09:42,589 - my_logger - INFO - >>> 1 of 3 populations finished 
+2024-08-19 20:17:20,939 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.305
+2024-08-19 20:17:20,940 - my_logger - INFO - evolution 1 cost time: 7.633333333333334 m
+2024-08-19 20:28:59,454 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.3036
+2024-08-19 20:28:59,454 - my_logger - INFO - evolution 1 cost time: 11.633333333333333 m
+2024-08-19 20:34:53,988 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.2944
+2024-08-19 20:34:53,989 - my_logger - INFO - evolution 1 cost time: 5.9 m
+2024-08-19 20:40:51,910 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.2924
+2024-08-19 20:40:51,910 - my_logger - INFO - evolution 1 cost time: 5.95 m
+2024-08-19 20:40:51,911 - my_logger - INFO - >> 1 of 3 finished 
+2024-08-19 20:47:50,687 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.293
+2024-08-19 20:47:50,687 - my_logger - INFO - evolution 1 cost time: 6.966666666666667 m
+2024-08-19 20:53:41,527 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.2844
+2024-08-19 20:53:41,527 - my_logger - INFO - evolution 1 cost time: 5.833333333333333 m
+2024-08-19 21:00:41,722 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.299
+2024-08-19 21:00:41,723 - my_logger - INFO - evolution 1 cost time: 7.0 m
+2024-08-19 21:06:40,348 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.301
+2024-08-19 21:06:40,349 - my_logger - INFO - evolution 1 cost time: 5.966666666666667 m
+2024-08-19 21:06:40,349 - my_logger - INFO - >> 2 of 3 finished 
+2024-08-19 21:13:06,379 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.2668
+2024-08-19 21:13:06,380 - my_logger - INFO - evolution 1 cost time: 6.433333333333334 m
+2024-08-19 21:19:00,535 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.289
+2024-08-19 21:19:00,535 - my_logger - INFO - evolution 1 cost time: 5.9 m
+2024-08-19 21:24:54,416 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.2864
+2024-08-19 21:24:54,416 - my_logger - INFO - evolution 1 cost time: 5.883333333333334 m
+2024-08-19 21:31:10,079 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.2896
+2024-08-19 21:31:10,079 - my_logger - INFO - evolution 1 cost time: 6.25 m
+2024-08-19 21:31:10,079 - my_logger - INFO - >> 3 of 3 finished 
+2024-08-19 21:31:10,079 - my_logger - INFO - fitness values of current population: 
+2024-08-19 21:31:10,079 - my_logger - INFO - 0.2668 
+2024-08-19 21:31:10,079 - my_logger - INFO - 0.279 
+2024-08-19 21:31:10,079 - my_logger - INFO - 0.2844 
+2024-08-19 21:31:10,080 - my_logger - INFO - >>> 2 of 3 populations finished 
+2024-08-19 21:36:58,570 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.2984
+2024-08-19 21:36:58,571 - my_logger - INFO - evolution 1 cost time: 5.8 m
+2024-08-19 21:43:14,077 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.3652
+2024-08-19 21:43:14,078 - my_logger - INFO - evolution 1 cost time: 6.25 m
+2024-08-19 21:49:46,717 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.298
+2024-08-19 21:49:46,717 - my_logger - INFO - evolution 1 cost time: 6.533333333333333 m
+2024-08-19 21:55:44,471 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.2774
+2024-08-19 21:55:44,471 - my_logger - INFO - evolution 1 cost time: 5.95 m
+2024-08-19 21:55:44,472 - my_logger - INFO - >> 1 of 3 finished 
+2024-08-19 22:01:38,515 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.2796
+2024-08-19 22:01:38,515 - my_logger - INFO - evolution 1 cost time: 5.9 m
+2024-08-19 22:08:04,528 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.282
+2024-08-19 22:08:04,528 - my_logger - INFO - evolution 1 cost time: 6.433333333333334 m
+2024-08-19 22:14:09,263 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.2994
+2024-08-19 22:14:09,264 - my_logger - INFO - evolution 1 cost time: 6.066666666666666 m
+2024-08-19 22:20:48,291 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.3712
+2024-08-19 22:20:48,292 - my_logger - INFO - evolution 1 cost time: 6.65 m
+2024-08-19 22:20:48,292 - my_logger - INFO - >> 2 of 3 finished 
+2024-08-19 22:26:42,673 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.3014
+2024-08-19 22:26:42,674 - my_logger - INFO - evolution 1 cost time: 5.9 m
+2024-08-19 22:33:43,101 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.2952
+2024-08-19 22:33:43,101 - my_logger - INFO - evolution 1 cost time: 7.0 m
+2024-08-19 22:39:29,205 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.297
+2024-08-19 22:39:29,206 - my_logger - INFO - evolution 1 cost time: 5.766666666666667 m
+2024-08-19 22:45:23,017 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.3024
+2024-08-19 22:45:23,018 - my_logger - INFO - evolution 1 cost time: 5.883333333333334 m
+2024-08-19 22:45:23,018 - my_logger - INFO - >> 3 of 3 finished 
+2024-08-19 22:45:23,018 - my_logger - INFO - fitness values of current population: 
+2024-08-19 22:45:23,018 - my_logger - INFO - 0.2668 
+2024-08-19 22:45:23,018 - my_logger - INFO - 0.2774 
+2024-08-19 22:45:23,018 - my_logger - INFO - 0.279 
+2024-08-19 22:45:23,018 - my_logger - INFO - >>> 3 of 3 populations finished 
+2024-08-19 22:45:23,018 - my_logger - INFO - t0~t1: 1381s
+2024-08-19 22:45:23,018 - my_logger - INFO - t1~t2: 14343s

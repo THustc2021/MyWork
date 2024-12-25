@@ -1,0 +1,46 @@
+2024-08-19 14:40:37,709 - my_logger - INFO - ['runael_PROTEIN_10_3_2.log', 'ael_results_old', 'runael_PROTEIN_3_3_2.log', '__pycache__', 'ael_results_exp', 'nohup.out', 'ael_prompts.py', 'ael_results_3x3x2', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'runAEL.py', 'ael_evaluation.py', 'data', 'arguments.py', 'model.py', 'evaluate.py', 'gin.py', 'README.md', 'ael_results', 'runael_PROTEIN_3_20_2.log', 'ael_results_test']
+2024-08-19 14:41:50,265 - my_logger - INFO - test population generation seed time: 1.2 m
+2024-08-19 14:41:50,266 - my_logger - INFO - write back seeds done.
+2024-08-19 14:42:11,977 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.24882
+2024-08-19 14:42:11,978 - my_logger - INFO - evolution 1 cost time: 0.35 m
+2024-08-19 14:42:34,298 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.2533
+2024-08-19 14:42:34,299 - my_logger - INFO - evolution 1 cost time: 0.36666666666666664 m
+2024-08-19 14:42:56,130 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.24887
+2024-08-19 14:42:56,131 - my_logger - INFO - evolution 1 cost time: 0.35 m
+2024-08-19 14:43:18,951 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.23812
+2024-08-19 14:43:18,952 - my_logger - INFO - evolution 1 cost time: 0.36666666666666664 m
+2024-08-19 14:43:18,952 - my_logger - INFO - >> 1 of 10 finished 
+2024-08-19 14:43:39,751 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.25331
+2024-08-19 14:43:39,752 - my_logger - INFO - evolution 1 cost time: 0.3333333333333333 m
+2024-08-19 17:43:44,918 - my_logger - INFO - ['runael_PROTEIN_10_3_2.log', 'ael_results_old', 'runael_PROTEIN_3_3_2.log', '__pycache__', 'ael_results_exp', 'nohup.out', 'ael_prompts.py', 'ael_results_3x3x2', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'runAEL.py', 'ael_evaluation.py', 'data', 'arguments.py', 'model.py', 'evaluate.py', 'gin.py', 'README.md', 'ael_results', 'runael_PROTEIN_3_20_2.log', 'ael_results_test']
+2024-08-19 17:44:59,360 - my_logger - INFO - test population generation seed time: 1.2333333333333334 m
+2024-08-19 17:44:59,362 - my_logger - INFO - write back seeds done.
+2024-08-19 17:48:11,807 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.25516
+2024-08-19 17:48:11,815 - my_logger - INFO - evolution 1 cost time: 3.2 m
+2024-08-19 17:48:50,276 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.26603
+2024-08-19 17:48:50,277 - my_logger - INFO - evolution 1 cost time: 0.6333333333333333 m
+2024-08-19 18:23:04,673 - my_logger - INFO - ['runael_PROTEIN_10_3_2.log', 'ael_results_old', 'runael_PROTEIN_3_3_2.log', '__pycache__', 'ael_results_exp', 'nohup.out', 'ael_prompts.py', 'ael_results_3x3x2', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'runAEL.py', 'ael_evaluation.py', 'data', 'arguments.py', 'model.py', 'evaluate.py', 'gin.py', 'README.md', 'ael_results', 'runael_PROTEIN_3_20_2.log', 'ael_results_test']
+2024-08-19 18:24:11,600 - my_logger - INFO - test population generation seed time: 1.1 m
+2024-08-19 18:24:11,600 - my_logger - INFO - write back seeds done.
+2024-08-19 18:25:11,843 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.26422
+2024-08-19 18:25:11,844 - my_logger - INFO - evolution 1 cost time: 1.0 m
+2024-08-19 18:25:32,306 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.26141
+2024-08-19 18:25:32,306 - my_logger - INFO - evolution 1 cost time: 0.3333333333333333 m
+2024-08-19 18:25:53,348 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.25972
+2024-08-19 18:25:53,348 - my_logger - INFO - evolution 1 cost time: 0.35 m
+2024-08-19 18:26:14,575 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.25155
+2024-08-19 18:26:14,576 - my_logger - INFO - evolution 1 cost time: 0.35 m
+2024-08-19 18:26:14,576 - my_logger - INFO - >> 1 of 10 finished 
+2024-08-19 18:26:35,482 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.25959
+2024-08-19 18:26:35,482 - my_logger - INFO - evolution 1 cost time: 0.3333333333333333 m
+2024-08-19 18:26:55,965 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.26243
+2024-08-19 18:26:55,965 - my_logger - INFO - evolution 1 cost time: 0.3333333333333333 m
+2024-08-19 18:27:15,522 - my_logger - INFO - generate new algorithm using m1 with fitness value: 0.24252
+2024-08-19 18:27:15,522 - my_logger - INFO - evolution 1 cost time: 0.31666666666666665 m
+2024-08-19 18:27:36,492 - my_logger - INFO - generate new algorithm using m2 with fitness value: 0.26226
+2024-08-19 18:27:36,493 - my_logger - INFO - evolution 1 cost time: 0.3333333333333333 m
+2024-08-19 18:27:36,493 - my_logger - INFO - >> 2 of 10 finished 
+2024-08-19 18:27:58,015 - my_logger - INFO - generate new algorithm using e1 with fitness value: 0.25954
+2024-08-19 18:27:58,015 - my_logger - INFO - evolution 1 cost time: 0.35 m
+2024-08-19 18:28:17,332 - my_logger - INFO - generate new algorithm using e2 with fitness value: 0.25599
+2024-08-19 18:28:17,332 - my_logger - INFO - evolution 1 cost time: 0.31666666666666665 m

@@ -1,0 +1,17 @@
+import os
+
+ASSERT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assert")
+COMBAT_PNG = os.path.join(ASSERT_DIR, "combat.png")
+KNIFE_XBM = os.path.join(ASSERT_DIR, "knife.xbm")
+SHIELD_PNG = os.path.join(ASSERT_DIR, "shield.png")
+MOVE_PNG = os.path.join(ASSERT_DIR, "move.png")
+MOVE_2X_PNG = os.path.join(ASSERT_DIR, "move2x.png")
+CHARGE_PNG = os.path.join(ASSERT_DIR, "charge.png")
+GOLD_SHIELD_PNG = os.path.join(ASSERT_DIR, "gold_shield.png")
+SWORD_PNG = os.path.join(ASSERT_DIR, "sword.png")
+SET_ARROWS = os.path.join(ASSERT_DIR, "set_arrows.png")
+ARROWS_TARGET = os.path.join(ASSERT_DIR, "arrows_target.png")
+TARGET_PNG = os.path.join(ASSERT_DIR, "target.png")
+COMMAND_PNG = os.path.join(ASSERT_DIR, "command.png")
+AIM_PNG = os.path.join(ASSERT_DIR, "aim.png")
+ARROW_PNG = os.path.join(ASSERT_DIR, "arrow.png")

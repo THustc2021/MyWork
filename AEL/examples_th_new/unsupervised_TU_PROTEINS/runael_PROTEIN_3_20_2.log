@@ -1,0 +1,14 @@
+2024-08-19 09:22:36,311 - my_logger - INFO - load initial population from .//ael_results/pops/population_generation_6.json
+2024-08-19 09:22:36,311 - my_logger - INFO - initial population has been loaded!
+2024-08-19 09:22:58,642 - my_logger - INFO - evolution 1 cost time: 0.36666666666666664 m
+2024-08-19 09:26:20,605 - my_logger - INFO - ['ael_results_old', '__pycache__', 'ael_results_exp', 'nohup.out', 'ael_prompts.py', 'ael_seeds', 'evaluate_embedding.py', 'aug.py', 'ael_alg.py', 'runAEL.py', 'ael_evaluation.py', 'data', 'arguments.py', 'model.py', 'evaluate.py', 'gin.py', 'README.md', 'ael_results', 'runael_PROTEIN_3_20_2.log', 'ael_results_test']
+2024-08-19 09:27:21,893 - my_logger - INFO - test population generation seed time: 1.0166666666666666 m
+2024-08-19 09:27:21,893 - my_logger - INFO - write back seeds done.
+2024-08-19 09:27:43,590 - my_logger - INFO - evolution 1 cost time: 0.35 m
+2024-08-19 09:28:28,777 - my_logger - INFO - evolution 1 cost time: 0.75 m
+2024-08-19 09:28:49,318 - my_logger - INFO - evolution 1 cost time: 0.3333333333333333 m
+2024-08-19 09:29:08,796 - my_logger - INFO - evolution 1 cost time: 0.31666666666666665 m
+2024-08-19 09:29:08,796 - my_logger - INFO - >> 1 of 3 finished 
+2024-08-19 09:29:28,635 - my_logger - INFO - evolution 1 cost time: 0.31666666666666665 m
+2024-08-19 09:29:46,557 - my_logger - INFO - evolution 1 cost time: 0.2833333333333333 m
+2024-08-19 09:30:14,407 - my_logger - INFO - evolution 1 cost time: 0.45 m
